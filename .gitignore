@@ -1,0 +1,11 @@
+.agent/
+.agents/
+GEMINI.md
+CLAUDE.md
+AGENTS.md
+*.tar.gz
+__pycache__/
+.env
+wallet.json
+out/
+node_modules/
